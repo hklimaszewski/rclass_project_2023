@@ -129,7 +129,7 @@ R_version	name	version	date_time	hash	binary_location	status
 4.2.3	translations	4.2.3	2023-04-16T23:55:21Z	c530eb2776939857c3bcdf631e846a54	C:/Users/klim03/Documents/DS_2023/r_4_2_cache/library/translations/4.2.3/c530eb2776939857c3bcdf631e846a54/translations	available
 4.2.3	tzdb	0.3.0	2023-04-16T23:55:27Z	c67b3446c1c0c7c22b96d2e724f280ea	C:/Users/klim03/Documents/DS_2023/r_4_2_cache/library/tzdb/0.3.0/c67b3446c1c0c7c22b96d2e724f280ea/tzdb	available
 4.2.3	urlchecker	1.0.1	2023-04-16T23:55:28Z	f95c8822bfc396e3a0fe4cb1dd746fe2	C:/Users/klim03/Documents/DS_2023/r_4_2_cache/library/urlchecker/1.0.1/f95c8822bfc396e3a0fe4cb1dd746fe2/urlchecker	available
-4.2.3	usethis	2.1.6	2023-04-16T23:55:30Z	4efe8698f937d5e3edad3924e27f5c85	C:/Users/klim03/Documents/DS_2023/r_4_2_cache/library/usethis/2.1.6/4efe8698f937d5e3edad3924e27f5c85/usethis	active
+4.2.3	usethis	2.1.6	2023-04-16T23:55:30Z	4efe8698f937d5e3edad3924e27f5c85	C:/Users/klim03/Documents/DS_2023/r_4_2_cache/library/usethis/2.1.6/4efe8698f937d5e3edad3924e27f5c85/usethis	available
 4.2.3	utf8	1.2.3	2023-04-16T23:55:31Z	e18bb668d81530a32927eb484ed9f7bd	C:/Users/klim03/Documents/DS_2023/r_4_2_cache/library/utf8/1.2.3/e18bb668d81530a32927eb484ed9f7bd/utf8	available
 4.2.3	utils	4.2.3	2023-04-16T23:55:32Z	166031f079da8c3dd0c9063e2a3b8bfd	C:/Users/klim03/Documents/DS_2023/r_4_2_cache/library/utils/4.2.3/166031f079da8c3dd0c9063e2a3b8bfd/utils	base
 4.2.3	vctrs	0.6.1	2023-04-16T23:55:34Z	89c41f8228f1c69d9cf18f85a3366ce2	C:/Users/klim03/Documents/DS_2023/r_4_2_cache/library/vctrs/0.6.1/89c41f8228f1c69d9cf18f85a3366ce2/vctrs	available
